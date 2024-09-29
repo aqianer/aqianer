@@ -6,7 +6,10 @@
 Here are some ideas to get you started:
 
 -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+chenglin+cao;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqianer)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,4 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+chenglin+cao;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aqianer&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+
+
