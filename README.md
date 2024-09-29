@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+chenglin+cao;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=E21AF7&multiline=true&width=435&lines=Hi+I+am+Chenglin;Welcome+to+my+personal+page;Over+3+years+of+programming+experience)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqianer)
 
