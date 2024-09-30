@@ -12,6 +12,26 @@
           />
         </td>
     </tr>
+    <tr>
+      <td>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+      </td>
+      <td align="center" width="30%">
+        <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
+      </td>
+      
+     <td align="center" width="150px">
+        <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202404181508489.png" height="120px" />
+      </td>
+    </tr>
   </table>
     
   
@@ -19,29 +39,9 @@
 </div>
 
 
-## Hi there 👋,![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&duration=6000&pause=1000&color=E21AF7&multiline=false&width=435&lines=Hi+I+am+Chenglin;Welcome+to+my+personal+page;Over+3+years+of+programming+experience)
 
-<!--
-**aqianer/aqianer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
-<table>
-  <tr>
-  <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqianer)</td>
-  <td>- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...</td>
-</tr>
   
-</table>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqianer)
 
