@@ -20,7 +20,7 @@
             <li>⚡ Fun fact: ...</li>
           </ul>           
         </td>
-        <td align="center" width="45%">
+        <td align="center" width="42%">
           <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
         </td>        
          <td align="center" width="125px">
