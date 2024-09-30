@@ -30,7 +30,7 @@
           <img src="https://github-readme-stats.vercel.app/api?username=aqianer" height="175px" />  
         </td>
         <td colspan="2" align="center">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqianer&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"  height="180px"/>
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqianer&bg_color=fffff0&color=708090&line=1f883d&point=24292e&area=true&area_color=0d53c5&hide_border=true"  height="180px"/>
         </td>
       </tr>
       <tr>
