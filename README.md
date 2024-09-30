@@ -2,11 +2,10 @@
   <table>
       <tr>
         <td colspan="3" align="left">
-          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="手势" />
-          <b> Hi there! I'm Rongding~ </b>
-          <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="60" />
+          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="手势" />          
+          <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="80" />
           <img
-            src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=false&vCenter=true&width=500&height=22&lines=Hi+I+am+Chenglin;Welcome+to+my+personal+page;"
+            src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=200&pause=1000&color=9999FF&center=false&vCenter=true&width=7000&height=240&lines=Hi+!!+I+am+Chenglin+,+A+passionate+web+developer+based+in+Shenzheng;Welcome+to+my+personal+page;"
             alt="Hi"
             width="400"
           />
