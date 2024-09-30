@@ -11,27 +11,22 @@
             width="400"
           />
         </td>
-    </tr>
-    <tr>
-      <td>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-      </td>
-      <td align="center" width="30%">
-        <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
-      </td>
-      
-     <td align="center" width="150px">
-        <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202404181508489.png" height="120px" />
-      </td>
-    </tr>
+      </tr>
+      <tr>  
+        <td>
+          <ul>
+            <li>🔭 I’m currently working on ...</li>
+            <li>🌱 I’m currently learning ...</li>
+            <li>⚡ Fun fact: ...</li>
+          </ul>           
+        </td>
+        <td align="center" width="30%">
+          <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
+        </td>        
+         <td align="center" width="150px">
+          <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202404181508489.png" height="120px" />
+        </td>
+      </tr>
   </table>
     
   
