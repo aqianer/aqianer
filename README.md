@@ -12,7 +12,7 @@
           />
         </td>
       </tr>
-      <tr>  
+      <tr height="130px">  
         <td>
           <ul>
             <li>🔭 I’m currently working on ...</li>
