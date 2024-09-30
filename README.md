@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-
-<tr>
+<table>
+  <tr>
   <td>![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=E21AF7&multiline=true&width=435&lines=Hi+I+am+Chenglin;Welcome+to+my+personal+page;Over+3+years+of+programming+experience)</td>
   <td>- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...</td>
 </tr>
+  
+</table>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqianer)
 
 
