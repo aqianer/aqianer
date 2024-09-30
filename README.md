@@ -1,4 +1,4 @@
-## Hi there 👋,![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=E21AF7&multiline=true&width=435&lines=Hi+I+am+Chenglin;Welcome+to+my+personal+page;Over+3+years+of+programming+experience)
+## Hi there 👋,![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&duration=6000&pause=1000&color=E21AF7&multiline=false&width=435&lines=Hi+I+am+Chenglin;Welcome+to+my+personal+page;Over+3+years+of+programming+experience)
 
 <!--
 **aqianer/aqianer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
