@@ -22,7 +22,7 @@
           <img src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" />
         </td>        
          <td align="center" width="125px">
-          <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202404181508489.png" height="120px" width="120px"/>
+          <img src="https://github.com/aqianer/DCIM/raw/main/aqianer_pic/wechat_qrcode.jpg" height="120px" width="120px"/>
         </td>
       </tr>
       <tr>
