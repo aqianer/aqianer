@@ -13,9 +13,9 @@
       <tr height="130px">  
         <td>
           <ul>
-            <li>🔭 I’m currently working on ...</li>
-            <li>🌱 I’m currently learning ...</li>
-            <li>⚡ Fun fact: ...</li>
+            <li>🔭 I’m committed to devoting myself to the cause of communism.</li>
+            <li>🌱 I’m learning large model application development.</li>
+            <li>⚡ Fun fact: 💻🎸🏀🎮👾</li>
           </ul>           
         </td>
         <td align="center" width="42%">
